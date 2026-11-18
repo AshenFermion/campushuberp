@@ -1,0 +1,29 @@
+[
+  {
+    "student_id": "ST001",
+    "name": "Aarav Sharma",
+    "age": 20,
+    "email": "aarav.sharma@example.com",
+    "department": "Computer Science",
+    "created_at": "2026-11-07T14:45:51.664566",
+    "updated_at": "2026-11-07T14:45:51.664567"
+  },
+  {
+    "student_id": "ST002",
+    "name": "Diya Patil",
+    "age": 21,
+    "email": "diya.patil@example.com",
+    "department": "Information Technology",
+    "created_at": "2026-11-07T14:45:51.664568",
+    "updated_at": "2026-11-07T14:45:51.664569"
+  },
+  {
+    "student_id": "ST003",
+    "name": "Kabir Deshmukh",
+    "age": 19,
+    "email": "kabir.deshmukh@example.com",
+    "department": "Computer Science",
+    "created_at": "2026-11-07T14:45:51.664569",
+    "updated_at": "2026-11-07T14:45:51.664569"
+  }
+]

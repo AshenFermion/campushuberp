@@ -1,0 +1,3 @@
+IT101 | Computer Networks | 3 credits
+CS201 | Database Management Systems | 3 credits
+CS101 | Programming Fundamentals | 4 credits

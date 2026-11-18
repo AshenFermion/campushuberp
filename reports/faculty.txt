@@ -1,0 +1,2 @@
+FC001 | Meera Joshi | Computer Science | meera.joshi@example.com
+FC002 | Rohan Kulkarni | Information Technology | rohan.kulkarni@example.com

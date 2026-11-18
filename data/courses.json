@@ -1,0 +1,23 @@
+[
+  {
+    "course_code": "CS101",
+    "course_name": "Programming Fundamentals",
+    "credits": 4,
+    "created_at": "2026-11-07T14:45:51.663167",
+    "updated_at": "2026-11-07T14:45:51.663172"
+  },
+  {
+    "course_code": "CS201",
+    "course_name": "Database Management Systems",
+    "credits": 3,
+    "created_at": "2026-11-07T14:45:51.663173",
+    "updated_at": "2026-11-07T14:45:51.663174"
+  },
+  {
+    "course_code": "IT101",
+    "course_name": "Computer Networks",
+    "credits": 3,
+    "created_at": "2026-11-07T14:45:51.663174",
+    "updated_at": "2026-11-07T14:45:51.663175"
+  }
+]

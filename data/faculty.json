@@ -1,0 +1,20 @@
+[
+  {
+    "faculty_id": "FC001",
+    "name": "Meera Joshi",
+    "age": 42,
+    "email": "meera.joshi@example.com",
+    "department": "Computer Science",
+    "created_at": "2026-11-07T14:45:51.664080",
+    "updated_at": "2026-11-07T14:45:51.664082"
+  },
+  {
+    "faculty_id": "FC002",
+    "name": "Rohan Kulkarni",
+    "age": 38,
+    "email": "rohan.kulkarni@example.com",
+    "department": "Information Technology",
+    "created_at": "2026-11-07T14:45:51.664083",
+    "updated_at": "2026-11-07T14:45:51.664083"
+  }
+]

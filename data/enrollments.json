@@ -1,0 +1,26 @@
+[
+  {
+    "enrollment_id": "EN001",
+    "student_id": "ST001",
+    "course_code": "CS101",
+    "created_at": "2026-11-07T14:45:51.675435"
+  },
+  {
+    "enrollment_id": "EN002",
+    "student_id": "ST002",
+    "course_code": "IT101",
+    "created_at": "2026-11-07T14:45:51.675438"
+  },
+  {
+    "enrollment_id": "EN003",
+    "student_id": "ST003",
+    "course_code": "CS201",
+    "created_at": "2026-11-07T14:45:51.675439"
+  },
+  {
+    "enrollment_id": "EN004",
+    "student_id": "ST001",
+    "course_code": "IT101",
+    "created_at": "2026-11-14T12:38:50.428690"
+  }
+]

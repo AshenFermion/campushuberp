@@ -1,0 +1,3 @@
+ST001 | Aarav Sharma | Computer Science | aarav.sharma@example.com
+ST002 | Diya Patil | Information Technology | diya.patil@example.com
+ST003 | Kabir Deshmukh | Computer Science | kabir.deshmukh@example.com
